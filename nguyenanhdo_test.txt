@@ -1,2 +1,3 @@
 Dong 1
+Dòng được thêm bởi new_feature
 Dòng của new_feature
